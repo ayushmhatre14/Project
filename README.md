@@ -28,4 +28,5 @@ Optimize using Adam optimizer, categorical cross-entropy loss, and early stoppin
 Evaluation:
 Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
 
+Dataset link: https://www.kaggle.com/datasets/emmarex/plantdisease
 
